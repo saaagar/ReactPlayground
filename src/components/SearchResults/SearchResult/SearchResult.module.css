@@ -1,0 +1,16 @@
+.SearchResult{
+  margin: 5px;
+  display:inline-block;
+  cursor: pointer;
+}
+.MoviePoster{
+
+}
+.MoviePoster img{
+height:400px;
+width:300px;
+border:1px solid #ccc;
+}
+.MovieDetails{
+  text-align: center;
+}

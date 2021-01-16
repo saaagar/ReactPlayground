@@ -1,0 +1,9 @@
+.MoviePoster{
+  width:300px;
+  /* margin:auto; */
+  display:inline-block;
+}
+.MoviePoster img{
+  width:100%;
+  border:1px solid gray;
+}
